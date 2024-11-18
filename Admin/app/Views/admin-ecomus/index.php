@@ -19,23 +19,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/animation.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/animation.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/styles.css">
 
 
 
     <!-- Font -->
-    <link rel="stylesheet" href="assets/font/fonts.css">
+    <link rel="stylesheet" href="../../assets/font/fonts.css">
 
     <!-- Icon -->
-    <link rel="stylesheet" href="assets/icon/style.css">
+    <link rel="stylesheet" href="../../assets/icon/style.css">
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="../../assets/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="../../assets/images/favicon.png">
 
 </head>
 
@@ -59,9 +59,9 @@
                     <div class="box-logo">
                         <a href="index.html" id="site-logo-inner">
                             <img class="" id="logo_header" alt=""
-                                src="https://themesflat.co/html/ecomus/assets/images/logo/logo.svg"
-                                data-light="../assets/images/logo/logo.svg"
-                                data-dark="https://themesflat.co/html/ecomus/assets/images/logo/logo-white.svg">
+                                src="https://themesflat.co/html/ecomus/../../assets/images/logo/logo.svg"
+                                data-light="../../../assets/images/logo/logo.svg"
+                                data-dark="https://themesflat.co/html/ecomus/../../assets/images/logo/logo-white.svg">
                         </a>
                         <div class="button-show-hide">
                             <i class="icon-chevron-left"></i>
@@ -287,9 +287,9 @@
                             <div class="header-left">
                                 <a href="index.html">
                                     <img class="" id="logo_header_mobile" alt=""
-                                        src="https://themesflat.co/html/ecomus/assets/images/logo/logo.svg"
-                                        data-light="../assets/images/logo/logo.svg"
-                                        data-dark="https://themesflat.co/html/ecomus/assets/images/logo/logo-white.svg">
+                                        src="https://themesflat.co/html/ecomus/../../assets/images/logo/logo.svg"
+                                        data-light="../../../assets/images/logo/logo.svg"
+                                        data-dark="https://themesflat.co/html/ecomus/../../assets/images/logo/logo-white.svg">
                                 </a>
                                 <div class="button-show-hide">
                                     <i class="icon-chevron-left"></i>
@@ -314,7 +314,7 @@
                                                 <ul>
                                                     <li class="product-item gap14 mb-10">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-1.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-1.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -328,7 +328,7 @@
                                                     </li>
                                                     <li class="product-item gap14 mb-10">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-2.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-2.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -342,7 +342,7 @@
                                                     </li>
                                                     <li class="product-item gap14">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-3.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-3.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -365,7 +365,7 @@
                                                 <ul>
                                                     <li class="product-item gap14 mb-10">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-4.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-4.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -379,7 +379,7 @@
                                                     </li>
                                                     <li class="product-item gap14 mb-10">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-5.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-5.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -393,7 +393,7 @@
                                                     </li>
                                                     <li class="product-item gap14 mb-10">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-6.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-6.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -407,7 +407,7 @@
                                                     </li>
                                                     <li class="product-item gap14">
                                                         <div class="image no-bg">
-                                                            <img src="assets/images/products/product-7.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-7.jpg" alt="">
                                                         </div>
                                                         <div class="flex items-center justify-between gap20 flex-grow">
                                                             <div class="name">
@@ -425,8 +425,8 @@
                             <div class="header-grid">
                                 <div class="header-item country">
                                     <select class="image-select no-text">
-                                        <option data-thumbnail="assets/images/country/1.png">ENG</option>
-                                        <option data-thumbnail="assets/images/country/9.png">VIE</option>
+                                        <option data-thumbnail="../../assets/images/country/1.png">ENG</option>
+                                        <option data-thumbnail="../../assets/images/country/9.png">VIE</option>
                                     </select>
                                 </div>
                                 <div class="header-item button-dark-light">
@@ -449,7 +449,7 @@
                                             <li>
                                                 <div class="noti-item w-full wg-user active">
                                                     <div class="image">
-                                                        <img src="assets/images/customers/customer-1.jpg" alt="">
+                                                        <img src="../../assets/images/customers/customer-1.jpg" alt="">
                                                     </div>
                                                     <div class="flex-grow">
                                                         <div class="flex items-center justify-between">
@@ -463,7 +463,7 @@
                                             <li>
                                                 <div class="noti-item w-full wg-user active">
                                                     <div class="image">
-                                                        <img src="assets/images/customers/customer-2.jpg" alt="">
+                                                        <img src="../../assets/images/customers/customer-2.jpg" alt="">
                                                     </div>
                                                     <div class="flex-grow">
                                                         <div class="flex items-center justify-between">
@@ -477,7 +477,7 @@
                                             <li>
                                                 <div class="noti-item w-full wg-user active">
                                                     <div class="image">
-                                                        <img src="assets/images/customers/customer-3.jpg" alt="">
+                                                        <img src="../../assets/images/customers/customer-3.jpg" alt="">
                                                     </div>
                                                     <div class="flex-grow">
                                                         <div class="flex items-center justify-between">
@@ -491,7 +491,7 @@
                                             <li>
                                                 <div class="noti-item w-full wg-user active">
                                                     <div class="image">
-                                                        <img src="assets/images/customers/customer-1.jpg" alt="">
+                                                        <img src="../../assets/images/customers/customer-1.jpg" alt="">
                                                     </div>
                                                     <div class="flex-grow">
                                                         <div class="flex items-center justify-between">
@@ -599,7 +599,7 @@
                                                 <ul class="list-apps">
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-1.png" alt="">
+                                                            <img src="../../assets/images/apps/item-1.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Photoshop</div>
@@ -607,7 +607,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-2.png" alt="">
+                                                            <img src="../../assets/images/apps/item-2.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">illustrator</div>
@@ -615,7 +615,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-3.png" alt="">
+                                                            <img src="../../assets/images/apps/item-3.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Sheets</div>
@@ -623,7 +623,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-4.png" alt="">
+                                                            <img src="../../assets/images/apps/item-4.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Gmail</div>
@@ -631,7 +631,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-5.png" alt="">
+                                                            <img src="../../assets/images/apps/item-5.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Messenger</div>
@@ -639,7 +639,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-6.png" alt="">
+                                                            <img src="../../assets/images/apps/item-6.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Youtube</div>
@@ -647,7 +647,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-7.png" alt="">
+                                                            <img src="../../assets/images/apps/item-7.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Flaticon</div>
@@ -655,7 +655,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-8.png" alt="">
+                                                            <img src="../../assets/images/apps/item-8.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">Instagram</div>
@@ -663,7 +663,7 @@
                                                     </li>
                                                     <li class="item">
                                                         <div class="image">
-                                                            <img src="assets/images/apps/item-9.png" alt="">
+                                                            <img src="../../assets/images/apps/item-9.png" alt="">
                                                         </div>
                                                         <a href="#">
                                                             <div class="text-tiny">PDF</div>
@@ -681,7 +681,7 @@
                                             id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
                                             <span class="header-user wg-user">
                                                 <span class="image">
-                                                    <img src="assets/images/avatar/user-1.png" alt="">
+                                                    <img src="../../assets/images/avatar/user-1.png" alt="">
                                                 </span>
                                                 <span class="flex flex-column">
                                                     <span class="body-text text-main-dark">Kristin Watson</span>
@@ -1107,7 +1107,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-1.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-1.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1121,7 +1121,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-2.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-2.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1135,7 +1135,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-3.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-3.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1149,7 +1149,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-4.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-4.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1164,7 +1164,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-5.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-5.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1178,7 +1178,7 @@
                                                 <li class="wg-product">
                                                     <div class="name flex-grow">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-6.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-6.jpg" alt="">
                                                         </div>
                                                         <div>
                                                             <div class="title">
@@ -1225,7 +1225,7 @@
                                                 <li class="item wg-product gap20">
                                                     <div class="name">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-1.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-1.jpg" alt="">
                                                         </div>
                                                         <div class="title mb-0">
                                                             <a href="#" class="body-text">Oversized Motif T-shirt</a>
@@ -1242,7 +1242,7 @@
                                                 <li class="item wg-product gap20">
                                                     <div class="name">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-2.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-2.jpg" alt="">
                                                         </div>
                                                         <div class="title mb-0">
                                                             <a href="#" class="body-text">Oversized Motif T-shirt</a>
@@ -1259,7 +1259,7 @@
                                                 <li class="item wg-product gap20">
                                                     <div class="name">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-3.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-3.jpg" alt="">
                                                         </div>
                                                         <div class="title mb-0">
                                                             <a href="#" class="body-text">Oversized Motif T-shirt</a>
@@ -1276,7 +1276,7 @@
                                                 <li class="item wg-product gap20">
                                                     <div class="name">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-7.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-7.jpg" alt="">
                                                         </div>
                                                         <div class="title mb-0">
                                                             <a href="#" class="body-text">Oversized Motif T-shirt</a>
@@ -1293,7 +1293,7 @@
                                                 <li class="item wg-product gap20">
                                                     <div class="name">
                                                         <div class="image">
-                                                            <img src="assets/images/products/product-4.jpg" alt="">
+                                                            <img src="../../assets/images/products/product-4.jpg" alt="">
                                                         </div>
                                                         <div class="title mb-0">
                                                             <a href="#" class="body-text">Oversized Motif T-shirt</a>
@@ -1398,28 +1398,28 @@
     <!-- /#wrapper -->
 
     <!-- Javascript -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/zoom.js"></script>
-    <script src="assets/js/morris.min.js"></script>
-    <script src="assets/js/raphael.min.js"></script>
-    <script src="assets/js/morris.js"></script>
-    <script src="assets/js/jvectormap.min.js"></script>
-    <script src="assets/js/jvectormap-us-lcc.js"></script>
-    <script src="assets/js/jvectormap-data.js"></script>
-    <script src="assets/js/jvectormap.js"></script>
-    <script src="assets/js/apexcharts/apexcharts.js"></script>
-    <script src="assets/js/apexcharts/line-chart-1.js"></script>
-    <script src="assets/js/apexcharts/line-chart-2.js"></script>
-    <script src="assets/js/apexcharts/line-chart-3.js"></script>
-    <script src="assets/js/apexcharts/line-chart-4.js"></script>
-    <script src="assets/js/apexcharts/line-chart-5.js"></script>
-    <script src="assets/js/apexcharts/line-chart-6.js"></script>
-    <script src="assets/js/apexcharts/line-chart-7.js"></script>
-    <script src="assets/js/switcher.js"></script>
-    <script defer src="assets/js/theme-settings.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../../assets/js/jquery.min.js"></script>
+    <script src="../../assets/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/bootstrap-select.min.js"></script>
+    <script src="../../assets/js/zoom.js"></script>
+    <script src="../../assets/js/morris.min.js"></script>
+    <script src="../../assets/js/raphael.min.js"></script>
+    <script src="../../assets/js/morris.js"></script>
+    <script src="../../assets/js/jvectormap.min.js"></script>
+    <script src="../../assets/js/jvectormap-us-lcc.js"></script>
+    <script src="../../assets/js/jvectormap-data.js"></script>
+    <script src="../../assets/js/jvectormap.js"></script>
+    <script src="../../assets/js/apexcharts/apexcharts.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-1.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-2.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-3.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-4.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-5.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-6.js"></script>
+    <script src="../../assets/js/apexcharts/line-chart-7.js"></script>
+    <script src="../../assets/js/switcher.js"></script>
+    <script defer src="../../assets/js/theme-settings.js"></script>
+    <script src="../../assets/js/main.js"></script>
 
 </body>
 

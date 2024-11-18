@@ -5,7 +5,6 @@ include 'app/Database/Database.php';
 // Model
 include 'app/Models/HomeModel.php';
 
-// Controller
 include 'app/Controllers/HomeController.php';
 
 

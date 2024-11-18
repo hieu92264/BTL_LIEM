@@ -1,20 +1,22 @@
 <?php
-class Database{
+class Database
+{
     public $pdo;
-    public function __construct(){
+    public function __construct()
+    {
         $host = 'localhost';
         $db_name = 'duan1';
         $user = 'root';
         $password = '';
-        $port = '3307';
-        
+        $port = '3306';
+
         $dsn = "mysql:host=$host;dbname=$db_name;port=$port;charset=UTF8";
-        try{
+        try {
             $this->pdo = new PDO($dsn, $user, $password);
-            if($this->pdo){
-                $this->pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE,PDO::FETCH_OBJ);
+            if ($this->pdo) {
+                $this->pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
             }
-        }catch(PDOException $e){
+        } catch (PDOException $e) {
             echo $e->getMessage();
         }
     }

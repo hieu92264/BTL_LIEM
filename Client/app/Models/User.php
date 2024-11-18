@@ -8,9 +8,15 @@ class User
         $this->db = new Database();
     }
 
-    public function getUser()
+    public function getUsers()
     {
         $sql = "select * from users";
+        return $this->db->pdo->query($sql)->fetchAll();
+    }
+
+    public function getUserByEmail($request)
+    {
+        $sql = "select * from users where email=$request->email";
         return $this->db->pdo->query($sql)->fetchAll();
     }
 }

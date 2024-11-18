@@ -4,8 +4,8 @@ class AuthController
 {
     public function index()
     {
-        $user = new User();
-        $data = $user->getUser();
-        include 'C:\xampp\htdocs\BTL_LIEM\Client\app\Controller\AuthController.php';
+        include("C:\xampp\htdocs\BTL_LIEM\Client\app\Views\login.php");
     }
+
+    public function doLogin($request) {}
 }
